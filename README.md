@@ -17,5 +17,5 @@
 - 💾 [Superstore SQL Insights](https://github.com/siva-data/superstore-sql-analysis)
 
 ## 🔗 Connect with me:
-- [LinkedIn]:(https://www.linkedin.com/in/siva-r-4521042a1)
+- LinkedIn: https://www.linkedin.com/in/siva-r-4521042a1
 - 📧 Email: sivasp1654@gmail.com
