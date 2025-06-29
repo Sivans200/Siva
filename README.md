@@ -13,46 +13,18 @@
 
 ## 📈 Projects:
 # 🔒 Real-Time CCTV Gesture Alert System
+## 🗓️ Project Timeline:
+- 🛠️ Started: April 2025  
+- ✅ Completed: May 2025  
+- 🎓 Final Year Major Project – 8th Semester
+  
+# 💳 Credit Card Processing System
+## 🗓️ Project Duration:
+February 2025 – Built as part of Python learning series
 
-A smart surveillance system that detects suspicious or threatening human gestures in real-time using computer vision and machine learning. On detection, it sends instant alerts to authorities via SMS, email, or mobile app – aiming to enhance public and private security.
-
----
-
-## 🎯 Objective:
-To develop a real-time gesture recognition system using CCTV input, which can detect abnormal behaviors and send automated alerts to concerned security authorities.
-
----
-
-## ⚙️ Tech Stack Used:
-
-| Component            | Technology                 |
-|----------------------|-----------------------------|
-| Programming Language | Python                      |
-| Computer Vision      | OpenCV, Mediapipe, OpenPose |
-| Machine Learning     | TensorFlow / Keras          |
-| Web Framework        | Flask                       |
-| Database             | MySQL                       |
-| Frontend UI          | HTML, CSS, Bootstrap        |
-| Deployment           | Localhost / Raspberry Pi    |
-
----
-
-## 📸 Features:
-- Real-time video capture from CCTV or webcam
-- Gesture recognition using body landmarks
-- Threat classification (e.g., fighting, weapon, fall)
-- Instant alert generation (SMS/email/mobile notification)
-- Location tracking using GPS (optional)
-- Web dashboard to monitor activity logs
-
----
-
-## 📁 Project Structure:
-
-```bash
-📂 CCTV-Gesture-Alert/
- ┣ 📁 gesture_model/          # Trained ML models
- ┣
+# 🤖 Chatbot in Python
+## 🗓️ Project Duration:
+March 2022 – Mini Python Practice Project
 
 ## 🔗 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/siva-r-4521042a1
